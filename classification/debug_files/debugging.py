@@ -1,4 +1,4 @@
-from logitstic_regression import LogisticRegressionGD
+from classification.debug_files.logitstic_regression import LogisticRegressionGD
 from pathlib import Path
 
 import pandas as pd
